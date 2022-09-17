@@ -1,0 +1,18 @@
+{
+  "_global": {
+    "_base": {
+      "instantiation": {
+        "instantiateMsg": {
+          "name": "Switcheroo Testing",
+          "symbol": "SWITCH",
+          "minter": "terra1fpv43mgxv9nz279ng6elvuuc54vydrxnnwhqkf",
+          "public_key": "AlRu+P0GWx+4eYLCOzNk45QiDjheKvHJUTDHT5dFtHUc",
+          "mint_amount": 0,
+          "change_amount": 0,
+          "change_multiplier": 0,
+          "max_issuance": 1000000
+        }
+      }
+    }
+  }
+}
